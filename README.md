@@ -86,7 +86,3 @@ The `php` folder has all the pages - dashboard, products, sales, transactions. T
 - Stock updates happen instantly after a sale
 - You can track multiple payment types
 - All data is kept safe in the MySQL database
-
-
-**Made for Tanzania**  
-**Version 1.0 - June 2026**
