@@ -5,7 +5,9 @@ This is a sales and inventory management system built specifically for autoparts
 ## Screenshots
 
 **Dashboard**
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot
+<img width="1127" height="725" alt="! Dashboard Screenshot (imagesdashboard png)" src="https://github.com/user-attachments/assets/5e471d1e-6a2c-4ada-834a-4829f024de68" />
+](images/dashboard.png)
 See your business stats at a glance - total products, revenue, recent sales, and low stock alerts.
 
 **Products Page**
@@ -86,3 +88,8 @@ The `php` folder has all the pages - dashboard, products, sales, transactions. T
 - Stock updates happen instantly after a sale
 - You can track multiple payment types
 - All data is kept safe in the MySQL database
+
+
+STUDENT NAME: COLMAN LUCAS MOSHA
+COURSE NAME: ICTB-2
+REGISTRATION NUMBER: 14323027/T.24
