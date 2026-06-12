@@ -11,19 +11,23 @@ This is a sales and inventory management system built specifically for autoparts
 ## Screenshots
 
 **Dashboard**
-![Dashboard](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/dashboard.png)
+<img width="1127" height="725" alt="dashboard png" src="https://github.com/user-attachments/assets/eb38fae0-c6e2-4f05-b92e-17b09977640f" />
+
 See your business stats at a glance - total products, revenue, recent sales, and low stock alerts.
 
 **Products Page**
-![Products](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/products.png)
+<img width="1122" height="721" alt="products png" src="https://github.com/user-attachments/assets/e6908c2e-60a0-4ea7-af2a-a7751d455924" />
+
 Manage your inventory - add, edit, and delete products easily.
 
 **Sales Interface**
-![Sales](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/sales.png)
+<img width="1121" height="713" alt="sales png" src="https://github.com/user-attachments/assets/27fbc568-9a06-452a-8203-568634fdcb3b" />
+
 Process sales quickly with the shopping cart system and customer tracking.
 
 **Transactions**
-![Transactions](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/transactions.png)
+<img width="1669" height="712" alt="transactions png" src="https://github.com/user-attachments/assets/89b63d97-cdfa-4b4b-829a-86234e9a433a" />
+
 View all your sales history and print invoices whenever needed.
 
 ---
