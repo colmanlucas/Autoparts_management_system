@@ -1,3 +1,9 @@
+**STUDENT NAME:** COLMAN LUCAS MOSHA  
+**COURSE NAME:** ICTB-2  
+**REGISTRATION NUMBER:** 14323027/T.24  
+
+---
+
 # AutoParts Pro - Management System
 
 This is a sales and inventory management system built specifically for autoparts shops in Tanzania. It helps you keep track of your inventory, process sales quickly, and manage transactions easily. Everything is in Tanzanian Shillings (TZS) so no need to worry about currency conversion.
@@ -5,19 +11,19 @@ This is a sales and inventory management system built specifically for autoparts
 ## Screenshots
 
 **Dashboard**
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/dashboard.png)
 See your business stats at a glance - total products, revenue, recent sales, and low stock alerts.
 
 **Products Page**
-![Products Screenshot](images/products.png)
+![Products](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/products.png)
 Manage your inventory - add, edit, and delete products easily.
 
 **Sales Interface**
-![Sales Screenshot](images/sales.png)
+![Sales](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/sales.png)
 Process sales quickly with the shopping cart system and customer tracking.
 
 **Transactions**
-![Transactions Screenshot](images/transactions.png)
+![Transactions](https://raw.githubusercontent.com/colmanlucas/Autoparts_management_system/main/images/transactions.png)
 View all your sales history and print invoices whenever needed.
 
 ---
